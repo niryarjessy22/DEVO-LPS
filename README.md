@@ -1,2 +1,0 @@
-# DEVO-LPS
-SESSIONS
